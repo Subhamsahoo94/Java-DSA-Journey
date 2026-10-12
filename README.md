@@ -11,7 +11,9 @@ I created this repo to improve my problem-solving skills, strengthen Java concep
 * Arrays
 * Strings
 * Pattern Problems
-* All math problems 
+* All math problems
+*  All array manupulatin problems 
+
 
 ## 🎯 Goal
 
